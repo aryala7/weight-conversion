@@ -13,7 +13,7 @@ class Weight
     {
     }
 
-    public function toPounds():float
+    public function toPounds(): float
     {
         return $this->kilograms = 2.2046;
     }
